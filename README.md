@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amr Mostafa and I'm a Fullstack Develoer from Egypt</p>
+<p align="left">My name is Amr Mostafa and I'm a Fullstack Developer from Egypt</p>
 
 ###
 
