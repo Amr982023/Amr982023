@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B8DFA&center=true&vCenter=true&width=500&lines=Fullstack+.NET+Developer;Clean+Code+Advocate;SQL+%26+Architecture+Enthusiast;Debug+Lover+%F0%9F%90%9E)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=amrmostafa&color=5b8dfa&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -75,6 +74,8 @@ public class Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
   &nbsp;&nbsp;
